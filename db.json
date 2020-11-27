@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-11-27T03:16:50.693Z",
+      "id": 1
+    },
+    {
+      "message": "Workstation 007 not working",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-11-27T03:17:17.803Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Changed memory on workstation 051",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-11-27T12:09:04.747Z"
+    },
+    {
+      "id": 4,
+      "message": "Changed network on server 009",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-11-27T06:22:53.256Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Rohan",
+      "lastName": "Shakya"
+    },
+    {
+      "id": 2,
+      "firstName": "Devish",
+      "lastName": "Chhetri"
+    },
+    {
+      "id": 3,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    }
+  ]
+}
